@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(24, 190, 202);
+    background-color: rgb(202, 24, 24);
 }
 h1 {
     font-family: 'Garamond', serif;
@@ -11,5 +11,5 @@ p {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 25px;
-    color: white
+    color: rgb(255, 235, 106)
 }
