@@ -2,14 +2,15 @@ body {
     background-color: rgb(80, 130, 83);
 }
 h1 {
-    font-family: 'Garamond', serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
     text-align: center;
-    color: white;
+    color: rgb(17, 208, 0);
+    text-shadow: 5px 5px 5px;
 }
 p {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 25px;
-    color: white
+    color: rgb(17, 208, 0)
 }
