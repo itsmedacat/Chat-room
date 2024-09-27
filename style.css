@@ -6,11 +6,11 @@ h1 {
     font-size: 50px;
     text-align: center;
     color: rgb(17, 208, 0);
-    text-shadow: 5px 5px 5px;
+    text-shadow: 5px 5px 5px gray;
 }
 p {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 25px;
-    color: rgb(17, 208, 0)
+    color: rgb(17, 208, 0 gray)
 }
