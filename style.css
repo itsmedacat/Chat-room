@@ -14,3 +14,8 @@ p {
     font-size: 25px;
     color: rgb(80, 130, 83);
 }
+
+#image{ 
+    margin:auto;
+    width: 50%;
+}
