@@ -15,9 +15,17 @@ p {
     color: rgb(80, 130, 83);
 }
 nav {
-    color: grey
+    color: rgb(255, 255, 255)
     padding: 10px;
+    margin: 0;
 }
-nav a {
-    color: rgb(80, 130, 83)
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+li {
+    
+}
+li a {
+
 }
