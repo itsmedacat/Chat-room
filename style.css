@@ -14,8 +14,10 @@ p {
     font-size: 25px;
     color: rgb(80, 130, 83);
 }
-
-#image{ 
-    margin:auto;
-    width: 50%;
+nav {
+    color: grey
+    padding: 10px;
+}
+nav a {
+    color: rgb(80, 130, 83)
 }
