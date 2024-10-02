@@ -23,6 +23,8 @@ ul {
     background-color: rgb(255, 255, 255);
     padding: 10px;
     margin: 0px;
+    position: absolute;
+    top: 0;
 }
 
     li {
