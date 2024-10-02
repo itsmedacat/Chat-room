@@ -33,4 +33,5 @@ ul {
 li a {
     color: rgb(80, 130, 83);
     text-decoration: none;
+    display: block;
 }
