@@ -20,7 +20,7 @@ p {
 ul {
     list-style-type: none;
     overflow: hidden;
-    background-color: rgb(255, 255, 255);
+    background-color: #555;
     padding: 10px;
     margin: 0px;
     position: absolute;
