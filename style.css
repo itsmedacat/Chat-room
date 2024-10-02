@@ -40,3 +40,10 @@ li a {
     padding: 14px 14px;
     text-align: center;
 }
+
+li a:hover:not(.active) {
+    background-color: lightgray;
+}
+.active {
+    background-color: goldenrod;
+}
