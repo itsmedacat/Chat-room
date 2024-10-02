@@ -20,9 +20,10 @@ p {
 ul {
     list-style-type: none;
     overflow: hidden;
-    color: rgb(255, 255, 255)
+    color: rgb(255, 255, 255);
     padding: 10px;
-    margin: 0;
+    margin: 0px;
+
 
 }
 
