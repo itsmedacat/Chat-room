@@ -18,13 +18,13 @@ p {
 }
 
 ul {
+    position: absolute;
+    top: 0;
     list-style-type: none;
     overflow: hidden;
     background-color: #555;
     padding: 0px;
     margin: 0px;
-    position: absolute;
-    top: 0;
 }
 
     li {
