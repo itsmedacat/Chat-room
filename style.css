@@ -23,7 +23,7 @@ ul {
     overflow: hidden;
     background-color: #555;
     padding: 0px;
-    margin: -8px;
+    margin: 0px;
 }
 
     li {
@@ -36,7 +36,7 @@ li a {
     color: rgb(80, 130, 83);
     text-decoration: none;
     display: block;
-    padding: 10px 10px;
+    padding: 20px 20px;
     text-align: center;
 }
 
