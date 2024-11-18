@@ -18,13 +18,12 @@ p {
 }
 
 ul {
-    position: absolute;
     top: 0;
     list-style-type: none;
     overflow: hidden;
     background-color: #555;
     padding: 0px;
-    margin: 0px;
+    margin: -8px;
 }
 
     li {
@@ -37,7 +36,7 @@ li a {
     color: rgb(80, 130, 83);
     text-decoration: none;
     display: block;
-    padding: 5ch 5px;
+    padding: 10px 10px;
     text-align: center;
 }
 
