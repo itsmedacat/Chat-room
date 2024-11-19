@@ -47,3 +47,8 @@ li a:hover:not(.active) {
 .active {
     background-color: goldenrod;
 }
+
+.pfp {
+    display: block
+    margin = 0 auto;
+}
