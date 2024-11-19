@@ -49,6 +49,6 @@ li a:hover:not(.active) {
 }
 
 .center {
-    display: block
+    display: block;
     margin = 0 auto;
 }
